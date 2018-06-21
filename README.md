@@ -43,7 +43,7 @@ Shows a detailed info of dataset
 ```
 Shows a detailed page of dataset
 
-
+---
 
 ```
 <dataset>['<column_name>']
@@ -67,7 +67,7 @@ def transform_country(country):
         return 'United States'
     else:
         return country
-
+```
 A Sample function changes that changes country column
 
 ---
