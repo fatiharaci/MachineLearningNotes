@@ -23,3 +23,14 @@ But what if this is not a line; so we need to write a quadratic function:
 fw (x) = w0 +w1*x + w2x^2
 ```
 * x^2 -> this is accepted just an another element so it is also called as linear regression 
+
+
+### Overfitting
+Fitting the best may not be the best solution all the time. Minimizing RSS is the only problem here.
+
+
+### How to choose prediction?
+* Simulate Prediction
+* In order to do that i need to train -> test set
+* If we use test set we also need to check how we sucess so -> test curves / training error
+
