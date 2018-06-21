@@ -1,29 +1,3 @@
-# SFramesCheatSheet
-
-
-## Sframes
-
-
-```
-import graphlab
-```
-Library for graphlab
-
----
-
-
-
-
-
-
-```
-<dataset>.show()
-```
-Shows a detailed page of dataset in a cool tab
-
----
-
-
 
 
 ## Python
