@@ -3,7 +3,7 @@
 
 ## Sframes
 
----
+
 ```
 import graphlab
 ```
