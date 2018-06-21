@@ -34,3 +34,11 @@ Fitting the best may not be the best solution all the time. Minimizing RSS is th
 * In order to do that i need to train -> test set
 * If we use test set we also need to check how we sucess so -> test curves / training error
 
+### Machine Learning Parameters
+* Weights (Regression Coefficients)
+* Quality Metric -> error (RSS) Can happen many times
+
+
+### Notes
+*  The model that best minimizes training error is "NOT" the one that will perform best for the task of prediction on new data.
+
