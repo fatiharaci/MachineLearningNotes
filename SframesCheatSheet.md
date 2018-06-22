@@ -37,3 +37,20 @@ draws a scatterplot of the data
 
 
 
+
+
+```
+sqft_model = graphlab.linear_regression.create(train_data, target='price', features=['sqft_living'],validation_set=None)
+
+```
+
+.create -> creates a new linear regression model using graphlab; following parameters are used:
+* we can give any feture defined.
+* above example uses sqft_living
+
+---
+
+
+
+
+
