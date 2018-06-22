@@ -53,4 +53,12 @@ sqft_model = graphlab.linear_regression.create(train_data, target='price', featu
 
 
 
+```
+print test_data['price'].mean()
+
+```
+calculates price column average value
+
+---
+
 
